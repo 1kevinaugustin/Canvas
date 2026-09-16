@@ -1,0 +1,5 @@
+cd /home/z/my-project
+git add -A
+git commit -m "Educational platform — ready for GitHub Pages"
+git remote add origin https://github.com/YOUR-USERNAME/canvas-learning.git
+git push -u origin main
